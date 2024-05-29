@@ -184,5 +184,6 @@ system("cls");
 	    case 2: Amharic(); break;
 	    default: goto goToMainMenu;
 	}
+	
 return 0;
 }
