@@ -21,6 +21,5 @@ int main()
   break;
   default: cout<<"Invalid operator";
  }
- 
  return 0; 
 }
