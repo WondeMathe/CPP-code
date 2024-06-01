@@ -24,8 +24,7 @@ int temp = *n1;
 if(*n2>*n3){
 int temp = *n2;
 *n2 = *n3;
-*n3 = temp;
-}
+*n3 = temp; }
 }
 
 int main(){
