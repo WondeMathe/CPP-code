@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 void order(int* n1, int* n2, int* n3){
