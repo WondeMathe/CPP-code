@@ -3,7 +3,6 @@
 using namespace std;
 
 void order(int* n1, int* n2, int* n3){
-
   
 if(*n1>*n2){
 int temp = *n1;
