@@ -10,6 +10,7 @@ int temp = *n1;
 *n2 = temp;
 }
 
+  
 if(*n2>*n3){
 int temp = *n2;
 *n2 = *n3;
